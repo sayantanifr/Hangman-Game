@@ -8,24 +8,12 @@ This project is a Python and JavaScript implementation of the classic Hangman ga
 https://sayantani-hangman.netlify.app
 
 ## ✨ Features
-- Random word selection
-- 6 incorrect guesses allowed
-- Input validation
-- Duplicate guess prevention
-- Win/Lose messages
-- Play Again option
-
-## 📸 Screenshots
-
-### Home Screen
-![Home Screen](images/home.png)
-
-### Game Over
-![Game Over](images/game-over.png)
-
-### Winning Screen
-![Winning Screen](images/win.png)
-
+- Randomly selects a word from a predefined list.
+- Allows up to 6 incorrect guesses.
+- Accepts only valid single-letter inputs.
+- Detects repeated guesses without reducing lives.
+- Displays win or game over messages with the correct word.
+- Restart the game using the Play Again button.
 
 ## 🛠️ Technologies Used
 - Python 3
