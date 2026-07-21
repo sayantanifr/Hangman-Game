@@ -15,6 +15,18 @@ https://sayantani-hangman.netlify.app
 - Win/Lose messages
 - Play Again option
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](images/home.png)
+
+### Game Over
+![Game Over](images/game-over.png)
+
+### Winning Screen
+![Winning Screen](images/win.png)
+
+
 ## 🛠️ Technologies Used
 - Python 3
 - HTML5
