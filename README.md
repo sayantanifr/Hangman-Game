@@ -20,13 +20,19 @@ https://sayantani-hangman.netlify.app
 - HTML5
 - CSS3
 - JavaScript
+
+## Deployment
 - GitHub
 - Netlify
 
 ## ▶️ How to Run
-- Run `hangman.py` to play the Python version.
-- Or play the web version using the Live Demo link above.
 
+### Python Version
+1. Clone or download this repository.
+2. Run `hangman.py` using Python 3.
+
+### Web Version
+- Play online using the Live Demo.
 ## 📂 Project Structure
 
 ```text
