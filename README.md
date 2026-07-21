@@ -7,6 +7,17 @@ This project is a Python and JavaScript implementation of the classic Hangman ga
 ## 🌐 Live Demo
 https://sayantani-hangman.netlify.app
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](images/home-screen.jpg)
+
+### 🎉 Victory Screen
+![Victory Screen](images/victory.jpg)
+
+### 💀 Game Over Screen
+![Game Over Screen](images/game-over.jpg)
+
 ## ✨ Features
 - Randomly selects a word from a predefined list.
 - Allows up to 6 incorrect guesses.
