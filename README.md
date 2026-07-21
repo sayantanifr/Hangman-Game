@@ -16,7 +16,7 @@ https://sayantani-hangman.netlify.app
 ![Victory Screen](images/victory.jpg)
 
 ### 💀 Game Over Screen
-![Game Over Screen](images/game-over .jpg)
+![Game Over Screen](images/game-over.jpg)
 
 ## ✨ Features
 - Randomly selects a word from a predefined list.
@@ -49,9 +49,9 @@ https://sayantani-hangman.netlify.app
 ```text
 Hangman-Game/
 │── images/
-│   ├── home-screen.png
-│   ├── victory.png
-│   └── game-over.png
+│   ├── home-screen.jpg
+│   ├── victory.jpg
+│   └── game-over.jpg
 │── index.html
 │── style.css
 │── script.js
