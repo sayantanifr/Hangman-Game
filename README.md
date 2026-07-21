@@ -1,31 +1,65 @@
 # 🎮 Hangman Game
 
-## 📌 Description
-Hangman is a classic word-guessing game where players try to reveal a hidden word by guessing one letter at a time. The game helps improve vocabulary, logical thinking, and problem-solving skills while providing a fun and engaging experience.
+A simple and interactive Hangman Game built using **Python** with a **web-based live demo** created using **HTML, CSS, and JavaScript**.
+
+## 🌐 Live Demo
+
+https://sayantani-hangman.netlify.app
+
+## 📌 GitHub Repository
+
+(Add your GitHub repository link here)
 
 ## ✨ Features
-- Random word selection
-- 5 predefined words
-- Maximum of 6 incorrect guesses
-- Input validation
-- Prevents duplicate guesses
-- Win/Lose messages
+
+- 🎯 Random word selection
+- 🔤 Letter-by-letter guessing
+- ❤️ 6 lives system
+- 🎮 Play Again button
+- 📱 Responsive design for mobile and desktop
+- 💻 Clean and user-friendly interface
 
 ## 🛠️ Technologies Used
-- Python 3
 
-## ▶️ How to Run
-1. Download or clone this repository.
-2. Open `hangman.py` in Python.
-3. Run the program and start guessing!
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Netlify
 
-## 📚 Concepts Used
-- Random Module
-- While Loop
-- If-Else Statements
-- Strings
-- Lists
-- User Input
+## 📂 Project Structure
 
-## 👩‍💻 Author
-**Sayantani Sikdar**
+```
+Hangman-Game/
+│── hangman.py
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── Documentation.pdf
+```
+
+## 🚀 How to Run the Python Version
+
+1. Download or clone the repository.
+2. Open the project in VS Code or any Python IDE.
+3. Make sure Python is installed.
+4. Run:
+
+```bash
+python hangman.py
+```
+
+## 🌍 How to View the Web Version
+
+Simply visit:
+
+https://sayantani-hangman.netlify.app
+
+No installation is required.
+
+## 🎯 Project Objective
+
+The objective of this project is to create a fun Hangman game that
