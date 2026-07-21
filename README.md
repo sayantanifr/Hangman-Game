@@ -27,5 +27,20 @@ https://sayantani-hangman.netlify.app
 - Run `hangman.py` to play the Python version.
 - Or play the web version using the Live Demo link above.
 
+## 📂 Project Structure
+
+```text
+Hangman-Game/
+│── images/
+│   ├── home-screen.png
+│   ├── victory.png
+│   └── game-over.png
+│── index.html
+│── style.css
+│── script.js
+│── hangman.py
+│── README.md
+```
+
 ## 👩‍💻 Author
 **Sayantani Sikdar**
