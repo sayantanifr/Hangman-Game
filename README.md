@@ -16,7 +16,7 @@ https://sayantani-hangman.netlify.app
 ![Victory Screen](images/victory.jpg)
 
 ### 💀 Game Over Screen
-![Game Over Screen](images/game-over.jpg)
+![Game Over Screen](images/game-over .jpg)
 
 ## ✨ Features
 - Randomly selects a word from a predefined list.
