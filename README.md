@@ -1,7 +1,8 @@
 # 🎮 Hangman Game
 
 ## 📌 Description
-Hangman is a classic word-guessing game where players reveal a hidden word one letter at a time before running out of chances. The project includes both a Python console version and a browser-based version that can be played online.
+
+This project is a Python and JavaScript implementation of the classic Hangman game. It randomly selects a word from a predefined list, validates user input, prevents duplicate guesses, tracks remaining lives, and displays interactive win or lose messages. The project includes both a Python console version and a browser-based version deployed on Netlify.
 
 ## 🌐 Live Demo
 https://sayantani-hangman.netlify.app
