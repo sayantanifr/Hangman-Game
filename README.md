@@ -27,7 +27,7 @@ https://sayantani-hangman.netlify.app
 - Restart the game using the Play Again button.
 
 ## 🛠️ Technologies Used
-- Python 3
+- Python 
 - HTML5
 - CSS3
 - JavaScript
